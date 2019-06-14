@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/trello-clone/static/js/main.a56fb6fd.chunk.js",
+    "main.js.map": "/trello-clone/static/js/main.a56fb6fd.chunk.js.map",
+    "runtime~main.js": "/trello-clone/static/js/runtime~main.20456630.js",
+    "runtime~main.js.map": "/trello-clone/static/js/runtime~main.20456630.js.map",
+    "static/css/2.7e7b32d4.chunk.css": "/trello-clone/static/css/2.7e7b32d4.chunk.css",
+    "static/js/2.986c15de.chunk.js": "/trello-clone/static/js/2.986c15de.chunk.js",
+    "static/js/2.986c15de.chunk.js.map": "/trello-clone/static/js/2.986c15de.chunk.js.map",
+    "index.html": "/trello-clone/index.html",
+    "precache-manifest.fe33366d6097636512dd7382199b9ecd.js": "/trello-clone/precache-manifest.fe33366d6097636512dd7382199b9ecd.js",
+    "service-worker.js": "/trello-clone/service-worker.js",
+    "static/css/2.7e7b32d4.chunk.css.map": "/trello-clone/static/css/2.7e7b32d4.chunk.css.map",
+    "static/media/mdb.css": "/trello-clone/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/trello-clone/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/ravenna_@2X.png": "/trello-clone/static/media/ravenna_@2X.9fb7ebd0.png"
+  }
+}
