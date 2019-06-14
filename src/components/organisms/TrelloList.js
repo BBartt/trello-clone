@@ -27,7 +27,7 @@ const TrelloList = ({ text, index, listID, cardID, title, done }) => {
 
             <TextArea
               autoFocus
-              value={`text: ${text} ||| index: ${index} ||| listID: ${listID} ||| cardID: ${cardID} ||| title: ${title}`}
+              value={text}
               disabled
               style={{
                 resize: "none",
