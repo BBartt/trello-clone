@@ -7,3 +7,5 @@ What i was using?
 -react-bootstrap
 -react-textarea-autosize
 -styled-components
+
+live: https://bbartt.github.io/trello-clone/
